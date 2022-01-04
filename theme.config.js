@@ -4,7 +4,7 @@ export default {
   titleSuffix: ' – Dok',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Dok</span>
+      <span className="mr-2 font-extrabold md:inline">Dok</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         Diary
       </span>
