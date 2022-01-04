@@ -63,6 +63,6 @@ export default {
   defaultMenuCollapsed: true,
   footer: true,
   footerEditLink: 'Edit this page on GitHub',
-  footerText: <>MIT {new Date().getFullYear()} © Dok Diary.</>,
+  footerText: <>{new Date().getFullYear()} © Dok Diary.</>,
   unstable_faviconGlyph: '👋',
 }

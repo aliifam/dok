@@ -1,6 +1,3 @@
-import Bleed from 'nextra-theme-docs/bleed'
-import Callout from 'nextra-theme-docs/callout'
-
 # Dok The Diary
 
 hanya sebuah catatan mahasiswa IT.
